@@ -1,0 +1,2 @@
+# firstProject
+Mój pierwszy projekt
